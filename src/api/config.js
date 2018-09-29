@@ -13,3 +13,8 @@ export const commonParams = {
 export const ERR_OK = 0
 
 export const RECOMMEND_URL = "/recommend"
+
+export function getDistList () {
+    const url = 'https://u.y.qq.com/cgi-bin/musicu.fcg?'
+    // const data = 
+}
