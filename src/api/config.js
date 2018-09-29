@@ -12,4 +12,4 @@ export const commonParams = {
 
 export const ERR_OK = 0
 
-export const RECOMMEND_URL = "https://www.sojson.com/api/qqmusic"
+export const RECOMMEND_URL = "/recommend"
